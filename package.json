@@ -1,0 +1,16 @@
+{
+  "name": "theia-cli",
+  "version": "0.1.0",
+  "main": "src/cli.js",
+  "license": "MIT",
+  "bin": {
+    "theia-cli": "bin/theia-cli"
+  },
+  "author": "theia",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3"
+  }
+}
