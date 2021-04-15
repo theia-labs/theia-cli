@@ -1,3 +1,7 @@
+# Theia-cli
+
+CLI that allows you to make requests to the Theia API.
+
 ## Installation
 
 To install theia-cli globally (executable from any terminal), run the following command:
@@ -22,11 +26,11 @@ To know the list of modules, it is possible to use the following command:
 theia-cli help
 ```
 
-You can also consult the [list of modules](./modules.md).
+You can also consult the [list of modules](https://theia-labs.github.io/en/cli/modules.html).
 
 ## Configuration
 
-To work, the CLI needs several parameters, such as your API key. To avoid entering these parameters each time you use it, it is advisable to set them persistently using the [`theia-cli config`](modules.md#configuration) command.
+To work, the CLI needs several parameters, such as your API key. To avoid entering these parameters each time you use it, it is advisable to set them persistently using the [`theia-cli config`](https://theia-labs.github.io/en/cli/modules.html#configuration) command.
 
 The configurable parameters are as follows:
 

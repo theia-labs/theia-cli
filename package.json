@@ -1,8 +1,9 @@
 {
   "name": "theia-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/cli.js",
   "license": "MIT",
+  "description": "CLI that allows you to make requests to the Theia API",
   "bin": {
     "theia-cli": "bin/theia-cli"
   },
