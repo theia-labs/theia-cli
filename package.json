@@ -1,6 +1,6 @@
 {
   "name": "theia-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/cli.js",
   "license": "MIT",
   "description": "CLI that allows you to make requests to the Theia API",
@@ -16,6 +16,7 @@
   "dependencies": {
     "@babel/cli": "^7.13.14",
     "@babel/core": "^7.13.15",
+    "@babel/runtime": "^7.13.10",
     "arg": "^5.0.0",
     "axios": "^0.21.1",
     "conf": "^9.0.2",
@@ -27,7 +28,6 @@
     "@babel/plugin-transform-runtime": "^7.13.15",
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.13.15",
-    "@babel/runtime": "^7.13.10",
     "babel-plugin-transform-class-properties": "^6.24.1"
   }
 }
