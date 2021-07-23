@@ -5,7 +5,8 @@
   "license": "MIT",
   "description": "CLI that allows you to make requests to the Theia API",
   "bin": {
-    "theia-cli": "bin/theia-cli"
+    "theia-cli": "bin/theia-cli",
+    "theia-cli-dev": "bin/theia-cli-dev"
   },
   "scripts": {
     "build": "npm run clean && npm run build-babel",
