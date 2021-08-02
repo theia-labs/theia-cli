@@ -20,7 +20,9 @@
     "axios": "^0.21.1",
     "conf": "^9.0.2",
     "inquirer": "^7.3.3",
-    "lru-cache": "^6.0.0"
+    "inquirer-date-prompt": "^2.0.1",
+    "lru-cache": "^6.0.0",
+    "rxjs": "^6.6.7"
   },
   "devDependencies": {
     "@babel/cli": "^7.13.14",
